@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9e3q7cW4MR9LoiKfkPbX1izc+y5LyjecW+S+AXmLV46UN9XlVJVIQxWGylTlO8aAMcd9yeKbxaFWTBHokT4bA==",
+  "success": true,
+  "projectFilePath": "C:\\git\\myQRcode\\QR\\QR\\QR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas.martinez01\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
